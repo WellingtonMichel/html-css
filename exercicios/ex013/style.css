@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(221, 215, 220);
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+}
+h1{
+    color: black;
+    background-color: blueviolet;
+}
+h2{
+    color: brown;
+}
+p {
+    text-align: justify;
+}
